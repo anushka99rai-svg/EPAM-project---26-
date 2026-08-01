@@ -6,3 +6,9 @@ body{
 .form{
     display: none;
 }
+.submit{
+    margin-top: 1rem;
+}
+.VerifyID{
+    margin-top: 1rem;
+}
